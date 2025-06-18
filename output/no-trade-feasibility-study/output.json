@@ -1,0 +1,1 @@
+[{"Julia":"1.11.5","BenchmarkTools":{"major":1,"minor":6,"patch":0,"prerelease":[],"build":[]}},[["BenchmarkGroup",{"data":{"run_model":["BenchmarkGroup",{"data":{},"tags":[]}],"create_model":["BenchmarkGroup",{"data":{},"tags":[]}]},"tags":[]}]]]
